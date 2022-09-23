@@ -1,8 +1,8 @@
 # JAV1001-Lab1Sample
 
-Student 1: Student#
-Student 2: Student#
-Student 3: Student#
+Student 1: Student#\
+Student 2: Student#<br>
+Student 3: Student#<br>
 
 You may work in groups of up to 3 students.
 
